@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-01T10:55:07 IST" name="Suite" finished-at="2026-10-01T10:55:12 IST" duration-ms="4457">
+    <groups>
+    </groups>
+    <test started-at="2026-10-01T10:55:07 IST" name="Test" finished-at="2026-10-01T10:55:12 IST" duration-ms="4457">
+      <class name="test.CheckoutPageTest">
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="method" finished-at="2026-10-01T10:55:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CheckoutPageTest.checkout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="checkout()[pri:1, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="checkout" finished-at="2026-10-01T10:55:11 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="browserclose" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkout status=SUCCESS method=CheckoutPageTest.checkout()[pri:1, instance:test.CheckoutPageTest@1e800aaa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="method" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CheckoutPageTest.info()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="info()[pri:2, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="info" finished-at="2026-10-01T10:55:11 IST" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- info -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="browserclose" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=info status=SUCCESS method=CheckoutPageTest.info()[pri:2, instance:test.CheckoutPageTest@1e800aaa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="method" finished-at="2026-10-01T10:55:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CheckoutPageTest.finishbtn()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="finishbtn()[pri:3, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="finishbtn" finished-at="2026-10-01T10:55:11 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishbtn -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CheckoutPageTest@1e800aaa]" started-at="2026-10-01T10:55:11 IST" name="browserclose" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=finishbtn status=SUCCESS method=CheckoutPageTest.finishbtn()[pri:3, instance:test.CheckoutPageTest@1e800aaa] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.CheckoutPageTest -->
+      <class name="test.HomePageTest">
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.HomePageTest.textVerify()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="textVerify()[pri:1, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="textVerify" finished-at="2026-10-01T10:55:10 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textVerify -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=textVerify status=SUCCESS method=HomePageTest.textVerify()[pri:1, instance:test.HomePageTest@3eb738bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.HomePageTest.sort()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="sort()[pri:2, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="sort" finished-at="2026-10-01T10:55:10 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=sort status=SUCCESS method=HomePageTest.sort()[pri:2, instance:test.HomePageTest@3eb738bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.HomePageTest.addtoCart()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="addtoCart()[pri:3, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="addtoCart" finished-at="2026-10-01T10:55:10 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtoCart -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addtoCart status=SUCCESS method=HomePageTest.addtoCart()[pri:3, instance:test.HomePageTest@3eb738bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.HomePageTest.cartSelect()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="cartSelect()[pri:4, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="cartSelect" finished-at="2026-10-01T10:55:10 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartSelect -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.HomePageTest@3eb738bb]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=cartSelect status=SUCCESS method=HomePageTest.cartSelect()[pri:4, instance:test.HomePageTest@3eb738bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.HomePageTest -->
+      <class name="test.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.LoginPageTest@6743e411]" started-at="2026-10-01T10:55:07 IST" name="setUp" finished-at="2026-10-01T10:55:10 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.LoginPageTest@6743e411]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.LoginPageTest.login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="login()[pri:0, instance:test.LoginPageTest@6743e411]" started-at="2026-10-01T10:55:10 IST" name="login" finished-at="2026-10-01T10:55:10 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.LoginPageTest@6743e411]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=SUCCESS method=LoginPageTest.login()[pri:0, instance:test.LoginPageTest@6743e411] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="end()[pri:0, instance:test.LoginPageTest@6743e411]" started-at="2026-10-01T10:55:11 IST" name="end" finished-at="2026-10-01T10:55:12 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- test.LoginPageTest -->
+      <class name="test.CartPageTest">
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CartPageTest.textHeading()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="textHeading()[pri:1, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="textHeading" finished-at="2026-10-01T10:55:10 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textHeading -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=textHeading status=SUCCESS method=CartPageTest.textHeading()[pri:1, instance:test.CartPageTest@5bda8e08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CartPageTest.conShopping()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="conShopping()[pri:2, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="conShopping" finished-at="2026-10-01T10:55:10 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conShopping -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="browserclose" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=conShopping status=SUCCESS method=CartPageTest.conShopping()[pri:2, instance:test.CartPageTest@5bda8e08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="method" finished-at="2026-10-01T10:55:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CartPageTest.checkout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="checkout()[pri:3, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:10 IST" name="checkout" finished-at="2026-10-01T10:55:11 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:11 IST" name="browserclose" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=checkout status=SUCCESS method=CartPageTest.checkout()[pri:3, instance:test.CartPageTest@5bda8e08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+        <test-method is-config="true" signature="method(java.lang.reflect.Method)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:11 IST" name="method" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.CartPageTest.clickCheckout()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method signature="clickCheckout()[pri:4, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:11 IST" name="clickCheckout" finished-at="2026-10-01T10:55:11 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckout -->
+        <test-method is-config="true" signature="browserclose(org.testng.ITestResult)[pri:0, instance:test.CartPageTest@5bda8e08]" started-at="2026-10-01T10:55:11 IST" name="browserclose" finished-at="2026-10-01T10:55:11 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickCheckout status=SUCCESS method=CartPageTest.clickCheckout()[pri:4, instance:test.CartPageTest@5bda8e08] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserclose -->
+      </class> <!-- test.CartPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
